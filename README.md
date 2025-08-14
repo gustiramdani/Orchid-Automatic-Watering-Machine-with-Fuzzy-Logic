@@ -52,10 +52,17 @@ Perangkat Lunak & Platform (Software & Platforms)
 
 👨‍💻 Tim Pengembang
 Gusti Ramdani (Ketua Tim) 
+
 Vina Puspitasari (Anggota) 
+
 Zidan Febrian Indra Putra (Anggota) 
+
 Muhammad Zikri Abdillah (Anggota)
+
 Fajri Haykal Rahman (Anggota)
+
 Muhammad Ifan Al Aziz (Anggota)
+
 Cindy Ardhita Claudia Manurung (Anggota)
+
 Zaki Rafi Athallah (Anggota)
